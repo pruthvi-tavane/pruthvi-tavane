@@ -12,6 +12,6 @@ Hi there! 👋 I'm Pruthvi P R
 
 📚 When I'm not coding, you can find me reading tech blogs, experimenting with new programming languages, or enjoying outdoor activities.
 
-📫 Let's connect and learn from each other! Feel free to reach out to me through [LinkedIn]([https://www.linkedin.com/in/pruthvi-p-r-b3a409342/])
+📫 Let's connect and learn from each other! Feel free to reach out to me through [LinkedIn]<a href="https://www.linkedin.com/in/pruthvi-p-r-b3a409342/">
 
 Keep coding and stay curious! 🚀
